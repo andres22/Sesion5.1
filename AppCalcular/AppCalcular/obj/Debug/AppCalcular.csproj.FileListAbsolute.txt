@@ -1,0 +1,9 @@
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\bin\Debug\AppCalcular.exe.config
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\bin\Debug\AppCalcular.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\bin\Debug\AppCalcular.pdb
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.Form1.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.Properties.Resources.resources
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.csproj.GenerateResource.Cache
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.exe
+c:\users\lab104bpc16\documents\visual studio 2012\Projects\AppCalcular\AppCalcular\obj\Debug\AppCalcular.pdb
